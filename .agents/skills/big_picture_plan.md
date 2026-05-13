@@ -52,7 +52,6 @@ sqlglot for sql parsing and validation, enforce impala dialect.
 pytest for testing
 python-dotenv
 litellm with openai for llm calls
-arize pheonix for observability (check for correct cloudera setup)
 
 ## Folder Structure:
 text_to_sql/
