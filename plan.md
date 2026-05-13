@@ -199,7 +199,21 @@ The model configurations (e.g., LiteLLM setup, models to use) will be defined vi
 We will use LangGraph's built-in state persistence (via Threads) to enable follow-up chats with the agent. 
 - When a user submits a query without a `thread_id`, the backend initializes a new Thread, executes the graph, and returns a new `thread_id` along with the SQL and response.
 - LangGraph loads the exact graph state for that thread (including the previously generated SQL, retrieved context, and conversation history), allowing the LLM to seamlessly explain its reasoning or iterate on the query.
-- Langgraph checkpointer uses sqlite to store the state (sqlitesaver) - could be replaced for production with something else.
+    - Langgraph checkpointer uses sqlite to store the state (sqlitesaver) - could be replaced for production with something else.
+
+### Status Propagation (UI, CLI, SDK)
+
+To propagate "what the system is doing right now" (e.g., to show loading spinners for specific steps), the system will use **LangGraph's built-in async streaming** (`.astream_events()` or `stream_mode="updates"`). 
+
+**Why this is the recommended approach:**
+1. **Zero State Clutter:** We do not need to add ephemeral `current_status` fields to the `TextToSQLState`.
+2. **Strict Hexagonal Architecture:** Pure business components and LangGraph nodes remain completely unaware of the UI. They do not need custom callback functions passed down to them.
+3. **Versatility:** This approach naturally supports token-by-token streaming for the LLM generation later.
+
+**Effect on CLI and SDK:**
+Because the streaming is handled entirely by LangGraph's execution engine (and not hardcoded into our business logic), it is strictly **additive**. The core engine can expose two ways to run a query:
+- **Blocking/Synchronous (`.invoke()` or `.ainvoke()`):** The SDK and CLI can use this to simply send a query and wait for the final `SQLResponse`. The CLI can just show a generic "Loading..." spinner.
+- **Streaming (`.astream_events()`):** The UI (or a fancy CLI using a library like `rich`) can consume the stream to show real-time progress (e.g., "Retrieving schema..."). The SDK will expose a `stream_query()` method.
 
 ### Langgraph State
 ```python
