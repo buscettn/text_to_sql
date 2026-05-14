@@ -1,3 +1,4 @@
 /data/lancedb/
 /data/gliner/models/
+/evaluation/results/
 .env
