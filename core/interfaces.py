@@ -16,4 +16,5 @@ class SQLResponse(BaseModel):
     sql: Optional[str]
     message: str
     status: str
+    data_domain: Optional[str] = None
     thread_id: str

@@ -16,7 +16,7 @@ class TextToSQLEngine:
         initial_state = {
             "messages": [{"role": "user", "content": request.query}],
             "requested_domain": request.data_domain,
-            "active_domain": None,
+            "data_domain": None,
             "schema_context": [],
             "few_shot_context": [],
             "grounding_context": [],
@@ -35,6 +35,7 @@ class TextToSQLEngine:
             sql=final_state.get("generated_sql"),
             message=final_state.get("agent_message", "No response generated."),
             status=final_state.get("status", "error"),
+            data_domain=final_state.get("data_domain"),
             thread_id=thread_id
         )
 
@@ -46,7 +47,7 @@ class TextToSQLEngine:
         initial_state = {
             "messages": [{"role": "user", "content": request.query}],
             "requested_domain": request.data_domain,
-            "active_domain": None,
+            "data_domain": None,
             "schema_context": [],
             "few_shot_context": [],
             "grounding_context": [],
@@ -76,5 +77,6 @@ class TextToSQLEngine:
             sql=final_state.get("generated_sql"),
             message=final_state.get("agent_message", "No response generated."),
             status=final_state.get("status", "error"),
+            data_domain=final_state.get("data_domain"),
             thread_id=thread_id
         )

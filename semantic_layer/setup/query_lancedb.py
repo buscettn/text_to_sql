@@ -1,27 +1,9 @@
 import lancedb
 import pandas as pd
 import argparse
-from litellm import embedding
 from pathlib import Path
-
-# Setup paths relative to the project root
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
-LANCEDB_PATH = BASE_DIR / "data" / "lancedb"
-
-# Configuration
-# "ollama/" prefix tells LiteLLM to route this to your local Ollama instance
-MODEL_NAME = "ollama/mxbai-embed-large:latest"
-OLLAMA_API_BASE = "http://localhost:11434" # Default Ollama port
-
-def get_embedding(text: str) -> list[float]:
-    """Generates an embedding vector using LiteLLM and Ollama."""
-    response = embedding(
-        model=MODEL_NAME,
-        input=text,
-        api_base=OLLAMA_API_BASE
-    )
-    # Extract the vector from the LiteLLM response payload
-    return response['data'][0]['embedding']
+from semantic_layer.config import LANCEDB_PATH
+from semantic_layer.providers.embeddings import get_embedding
 
 def query_lancedb(query_text: str, k: int, lance_table: str):
     print(f"Connecting to LanceDB at {LANCEDB_PATH}...")

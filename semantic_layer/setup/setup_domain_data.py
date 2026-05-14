@@ -1,35 +1,20 @@
 import lancedb
 import pandas as pd
-from litellm import embedding
 from pathlib import Path
+from semantic_layer.config import LANCEDB_PATH, EMBEDDING_MODEL_NAME
+from semantic_layer.providers.embeddings import get_embedding
 
 # Setup paths relative to the project root
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 CSV_PATH = BASE_DIR / "data" / "semantic_input" / "domain_data.csv"
-LANCEDB_PATH = BASE_DIR / "data" / "lancedb"
-
-# Configuration
-# "ollama/" prefix tells LiteLLM to route this to your local Ollama instance
-MODEL_NAME = "ollama/mxbai-embed-large:latest"
-OLLAMA_API_BASE = "http://localhost:11434" # Default Ollama port
 
 df = pd.read_csv(CSV_PATH)
 print(f"Loaded {len(df)} rows from CSV.")
 
-def get_embedding(text: str) -> list[float]:
-    """Generates an embedding vector using LiteLLM and Ollama."""
-    response = embedding(
-        model=MODEL_NAME,
-        input=text,
-        api_base=OLLAMA_API_BASE
-    )
-    # Extract the vector from the LiteLLM response payload
-    return response['data'][0]['embedding']
-
 # ---------------------------------------------------------
 # Step 3: Embed the target column
 # ---------------------------------------------------------
-print(f"Generating embeddings using {MODEL_NAME}...")
+print(f"Generating embeddings using {EMBEDDING_MODEL_NAME}...")
 df['vector'] = df['DomainText'].apply(get_embedding)
 
 # ---------------------------------------------------------

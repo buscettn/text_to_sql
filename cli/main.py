@@ -18,6 +18,7 @@ async def execute_query(query: str, domain: str = None, stream: bool = False):
                 print("\n" + "=" * 40)
                 print("Final Response:")
                 print(f"Status: {output.status}")
+                print(f"Domain: {output.data_domain}")
                 print(f"Message: {output.message}")
                 if output.sql:
                     print(f"SQL:\n{output.sql}")
@@ -30,6 +31,7 @@ async def execute_query(query: str, domain: str = None, stream: bool = False):
         print("=" * 40)
         print("Final Response:")
         print(f"Status: {response.status}")
+        print(f"Domain: {response.data_domain}")
         print(f"Message: {response.message}")
         if response.sql:
             print(f"SQL:\n{response.sql}")

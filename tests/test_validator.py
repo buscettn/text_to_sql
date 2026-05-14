@@ -37,7 +37,7 @@ def test_validator_node_valid():
     state = TextToSQLState(
         messages=[],
         requested_domain=None,
-        active_domain=None,
+        data_domain=None,
         schema_context=[],
         few_shot_context=[],
         grounding_context=[],
@@ -61,7 +61,7 @@ def test_validator_node_invalid():
     state = TextToSQLState(
         messages=[],
         requested_domain=None,
-        active_domain=None,
+        data_domain=None,
         schema_context=[],
         few_shot_context=[],
         grounding_context=[],
@@ -83,7 +83,7 @@ def test_validator_node_no_sql():
     state = TextToSQLState(
         messages=[],
         requested_domain=None,
-        active_domain=None,
+        data_domain=None,
         schema_context=[],
         few_shot_context=[],
         grounding_context=[],

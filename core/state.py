@@ -6,7 +6,7 @@ from core.interfaces import ContextItem
 class TextToSQLState(TypedDict):
     messages: Annotated[List[BaseMessage], add_messages]
     requested_domain: Optional[str]
-    active_domain: Optional[str]
+    data_domain: Optional[str]
     schema_context: List[ContextItem]
     few_shot_context: List[ContextItem]
     grounding_context: List[ContextItem]
