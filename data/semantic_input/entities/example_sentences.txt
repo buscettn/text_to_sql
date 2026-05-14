@@ -1,0 +1,521 @@
+Wie hoch ist die Bilanzsumme der {entity}?
+Um den Kreditrahmen zu erweitern, muss die {entity} zunächst eine umfassende Bonitätsprüfung durchführen.
+Die {entity} hat gestern die neuen Quartalszahlen veröffentlicht und die Erwartungen der Analysten übertroffen.
+Im Falle einer Insolvenz greift für die Einlagen bei der {entity} die gesetzliche Einlagensicherung.
+Die Fusion der {entity} mit ihrem größten Konkurrenten wurde von der Aufsichtsbehörde genehmigt.
+Erfüllt die {entity} aktuell die Mindestanforderungen an die Eigenmittel gemäß der CRR?
+Welche Auswirkungen haben die neuen Basel-III-Vorgaben auf die Verschuldungsquote der {entity}?
+Entspricht die Vergütungsstruktur der {entity} den regulatorischen Anforderungen an die Risikoorientierung?
+Welche Eigenkapitalpuffer muss die {entity} aufgrund ihrer Einstufung als systemrelevant vorhalten?
+Welche Auswirkungen hat die Erhöhung des antizyklischen Kapitalpuffers auf die Kreditvergabe der {entity}?
+Welche methodischen Ansätze nutzt die {entity} zur Berechnung des operationellen Risikos?
+Inwieweit beeinflusst das aktuelle Zinsumfeld die Zinsänderungsrisiken im Anlagebuch der {entity}?
+Welche Schwellenwerte für die Liquiditätsdeckungsquote (LCR) hat sich die {entity} intern gesetzt?
+Wie bereitet sich die {entity} auf die kommenden Anforderungen zur Messung von Klima- und Umweltrisiken vor?
+Welche Schritte unternimmt die {entity}, um die Anforderungen an die Datenqualität im Meldewesen zu verbessern?
+Verfügt die {entity} über eine lückenlose Data Lineage für die Berechnung der risikogewichteten Aktiva?
+Wie identifiziert die {entity} Dubletten in ihren Kundendatensätzen, um fehlerhafte Großkreditmeldungen zu vermeiden?
+Welche Metadaten nutzt die {entity}, um die Herkunft von Kennzahlen im CoRep-Meldewesen nachvollziehbar zu machen?
+Wie stellt die {entity} sicher, dass Sicherheitenwerte in der Asset-Encumbrance-Meldung tagesaktuell bewertet vorliegen?
+Wie stellt die {entity} die Revisionssicherheit der Datenverarbeitungsprozesse im Bereich des regulatorischen Reportings sicher?
+Wie wird die zeitnahe Verarbeitung von Korrekturmeldungen im Datenaushalt der {entity} organisiert?
+Wie hoch ist die Gesamtkapitalquote von {entity} laut aktuellem COREP-Bericht?
+Zeige mir die notleidenden Kredite (NPL) für {entity} in den FINREP-Daten.
+Welche Kreditrisikopositionen sind für {entity} in AnaCredit hinterlegt?
+Wie hoch war die variable Vergütung für Risk-Taker bei {entity}?
+Nenne die Bilanzsumme von {entity} gemäß den MFI-Statistiken.
+Welche Eigenmittelanforderungen gelten für {entity} im Bereich Marktrisiko?
+Extrahiere die Zinserträge für {entity} aus der Gewinn- und Verlustrechnung (FINREP).
+Wie hoch ist der Verschuldungsgrad (Leverage Ratio) von {entity}?
+Welche Sicherheiten sind für {entity} im AnaCredit-Datensatz vermerkt?
+Liste die Anzahl der Mitarbeiter von {entity} mit einer Vergütung über einer Million Euro.
+Wie hoch sind die liquiden Aktiva von {entity} gemäß LCR-Bericht?
+Zeige alle Kredite an nicht-finanzielle Kapitalgesellschaften für {entity} in der MFI-Statistik.
+Welche Belastungsquote (Asset Encumbrance) meldet {entity} im ITS-Reporting?
+Ermittle das harte Kernkapital (CET1) für {entity} aus den COREP-Tabellen.
+Wie hoch ist dasExposure von {entity} gegenüber dem Immobiliensektor laut AnaCredit?
+Welche Wertminderungen wurden für {entity} in FINREP Stufe 2 gemeldet?
+Nenne die kurzfristigen Verbindlichkeiten von {entity} aus den statistischen Meldungen.
+Wie viele Kredite von {entity} sind aktuell in Verzug?
+Zeige die Aufteilung der Verwaltungsaufwendungen für {entity}.
+Welche Risikogewichte werden für das Portfolio von {entity} angewendet?
+Wie hoch ist die Net Stable Funding Ratio (NSFR) für {entity}?
+Liste die Top 10 Kreditnehmer von {entity} gemäß Großkreditmeldung (COREP).
+Welche Zinssätze werden für Neugeschäfte von {entity} in der MFI-Statistik ausgewiesen?
+Wie hoch ist der Anteil der fixen Vergütung bei {entity} im Vergleich zum Vorjahr?
+Welche derivativen Positionen hält {entity} laut FINREP?
+Zeige die sektorspezifische Konzentration der Kredite für {entity}.
+Wie hoch ist die Leverage Ratio Buffer Anforderung für {entity}?
+Welche Informationen zur Stundung (Forbearance) liegen für {entity} vor?
+Nenne die Summe der außerbilanziellen Posten für {entity}.
+Wie viele Datensätze wurden für {entity} im letzten AnaCredit-Zyklus übermittelt?
+Was ist die Eigenkapitalrendite (RoE) von {entity} basierend auf FINREP?
+Welche Währungen sind für die Einlagen von {entity} in der MFI-Statistik relevant?
+Wie hoch ist der Risk Exposure Amount (REA) für operationelle Risiken bei {entity}?
+Liste die Vergütungsausschuss-Mitglieder von {entity}.
+Welche Arten von Garantien wurden von {entity} laut ITS gemeldet?
+Wie hoch ist die Coverage Ratio für NPLs bei {entity}?
+Zeige die Fristigkeitenstruktur der Passiva für {entity}.
+Welche Brutto-Buchwerte meldet {entity} für das Privatkundengeschäft?
+Wie hoch ist die Mindestreserveverpflichtung von {entity} laut MFI-Daten?
+Welche operationellen Verluste hat {entity} im COREP-Meldezeitraum verzeichnet?
+Nenne die risikogewichteten Aktiva für Kreditrisiken im Standardansatz für {entity}.
+Wie hoch ist der Marktwert der Handelsaktiva von {entity}?
+Welche revolvierenden Kredite sind für {entity} in AnaCredit gelistet?
+Wie hoch ist die Kosten-Ertrags-Quote (CIR) von {entity}?
+Zeige die Zusammensetzung der Ergänzungskapitalinstrumente (Tier 2) von {entity}.
+Welche Länderkonzentrationen bestehen im Kreditbuch von {entity}?
+Wie viele hochbezahlte Mitarbeiter (High Earners) gibt es bei {entity}?
+Welche Bewertungsanpassungen (CVA) wurden für {entity} vorgenommen?
+Wie hoch ist der Bestand an Staatsanleihen von {entity} laut FINREP?
+Welche Zinssensitivität zeigt das Portfolio von {entity} in den COREP-Daten?
+Wie hoch sind die Rückstellungen für Pensionen bei {entity}?
+Welche Laufzeitbänder werden für die Einlagen von {entity} gemeldet?
+Nenne die Gesamtsumme der Kreditzusagen von {entity}.
+Wie hoch ist die Verschuldung der privaten Haushalte gegenüber {entity}?
+Welche aggregierten Daten zur Vergütung pro Geschäftsbereich liefert {entity}?
+Wie hoch ist der Anteil der besicherten Kredite im Portfolio von {entity}?
+Welche regulatorischen Abzugsposten gelten für das Kapital von {entity}?
+Zeige die Gewinnrücklagen von {entity} gemäß dem ITS-Standard.
+Wie hoch ist das Volumen der syndizierten Kredite von {entity}?
+Welche immateriellen Vermögenswerte meldet {entity} in FINREP?
+Wie hoch ist die Verzugshäufigkeit (Probability of Default) bei {entity}?
+Welche Instrumente von {entity} fallen unter die MFI-Zinsstatistik?
+Wie hoch ist die Gesamtsumme der Risikopositionen (Total Exposure) von {entity}?
+Welche Tochtergesellschaften von {entity} unterliegen der AnaCredit-Meldepflicht?
+Wie hoch ist die Dividende, die von {entity} ausgeschüttet wurde?
+Welche Schwellenwerte für Großkredite wurden von {entity} überschritten?
+Wie hoch ist der Barwert der Cashflows für {entity} in AnaCredit?
+Welche hybriden Kapitalinstrumente nutzt {entity} zur Kapitalstärkung?
+Wie hoch ist der Netto-Cash-Outflow von {entity} im Stressszenario?
+Welche Rechnungslegungsstandards (IFRS/HGB) nutzt {entity} für FINREP?
+Wie hoch ist die Quote der notleidenden Risikopositionen für {entity}?
+Welche Angaben zur Geschlechterverteilung in der Vergütung macht {entity}?
+Wie hoch ist der Buchwert der Sachanlagen von {entity}?
+Welche Kreditderivate werden zur Absicherung bei {entity} genutzt?
+Wie hoch ist das ausstehende Volumen an Schuldverschreibungen von {entity}?
+Welche Angaben zur Asset Quality macht {entity} im ITS-Bericht?
+Wie hoch ist das Betriebsergebnis vor Steuern für {entity}?
+Welche Arten von Einlagen werden von {entity} in der MFI-Statistik differenziert?
+Wie hoch ist der maximale Bonus-Faktor für Mitarbeiter von {entity}?
+Welche ESG-Risikofaktoren sind in den COREP-Meldungen von {entity} enthalten?
+What is the total leverage ratio for {entity} in the latest COREP filing?
+Show me the NPL ratio for {entity} according to FINREP templates.
+List all credit risk exposures for {entity} under the AnaCredit framework.
+What was the total remuneration paid to identified staff at {entity} last year?
+Retrieve the liquidity coverage ratio (LCR) for {entity} from the ITS reporting data.
+How many instruments are reported for {entity} in the MFI Statistics database?
+Extract the net interest income for {entity} based on FINREP 2024.
+What is the risk-weighted asset (RWA) value for {entity} in the COREP credit risk section?
+Show the breakdown of variable vs. fixed pay for {entity} in the Remuneration report.
+Which protection types are linked to {entity} in the AnaCredit dataset?
+Compare the Tier 1 capital of {entity} across the last four quarters.
+Find the total deposits for {entity} as per MFI Statistics requirements.
+List the encumbered assets reported by {entity} in the ITS templates.
+What is the default rate for the retail portfolio of {entity}?
+Show the geographical breakdown of exposures for {entity} in FINREP.
+Retrieve the NSFR (Net Stable Funding Ratio) for {entity} from COREP.
+What are the outstanding loan amounts for {entity} in the AnaCredit monthly report?
+List all subsidiaries of {entity} included in the consolidated FINREP.
+What is the average bonus amount for senior management at {entity}?
+Identify the reporting frequency for {entity} under the current ITS on reporting.
+What is the total amount of Tier 2 capital instruments for {entity}?
+List the specific reporting dates for {entity} in the 2025 AnaCredit cycle.
+Show the total administrative expenses for {entity} according to FINREP template 2.
+What is the cost-to-income ratio for {entity} based on the latest quarterly filing?
+Retrieve the breakdown of residential mortgage loans for {entity}.
+How much did {entity} report in fee and commission income?
+What are the risk-weighted assets for market risk for {entity}?
+List all non-performing exposures for {entity} in the manufacturing sector.
+What is the countercyclical capital buffer requirement for {entity}?
+Show the total amount of high-quality liquid assets (HQLA) held by {entity}.
+What is the average interest rate for new business deposits at {entity}?
+Extract the deferred tax assets reported by {entity} in the COREP CA templates.
+How many employees at {entity} earn more than 2 million Euros annually?
+Show the geographical distribution of credit risk for {entity} in FINREP.
+What is the total volume of overdrafts for {entity} in the MFI statistics?
+Retrieve the loss given default (LGD) estimates for {entity}.
+What are the total risk-weighted assets for operational risk for {entity}?
+List the encumbered and unencumbered assets for {entity} per ITS standards.
+What is the total value of credit lines granted to SMEs by {entity}?
+Show the net interest margin for {entity} over the last three reporting periods.
+Wie hoch sind die gesamten risikogewichteten Aktiva (RWA) von {entity}?
+Welche Bestände an Gold und Goldforderungen meldet {entity}?
+Zeige die Aufgliederung der Handelsbuchpositionen für {entity}.
+Wie hoch ist der Buchwert der als Finanzinvestition gehaltenen Immobilien von {entity}?
+Welche Wertberichtigungen wurden für {entity} im Bereich AnaCredit erfasst?
+Nenne die Höhe des harten Kernkapitals nach Abzügen für {entity}.
+Wie hoch ist die Verleihungsquote von {entity} im aktuellen Geschäftsjahr?
+Welche Angaben macht {entity} zu außerbilanziellen Garantien?
+Wie hoch ist der Gesamtbetrag der einbezahlten Kapitalinstrumente von {entity}?
+Zeige die Zinsaufwendungen für Einlagen von Nicht-MFIs bei {entity}.
+Wie hoch ist das Volumen der notleidenden Kredite im Baugewerbe für {entity}?
+Welche Vergütung wurde an das Kontrollpersonal von {entity} gezahlt?
+Wie hoch ist der Netto-Cash-Inflow von {entity} laut LCR-Meldung?
+Welche Forderungen gegenüber Zentralbanken weist {entity} in FINREP aus?
+Wie hoch ist die Leverage Ratio von {entity} unter Berücksichtigung der Übergangsbestimmungen?
+Welche Arten von dinglichen Sicherheiten meldet {entity} in AnaCredit?
+Wie hoch ist der Betrag der latenten Steuerschulden für {entity}?
+Zeige die Verteilung der Kredite von {entity} nach Restlaufzeiten.
+Wie hoch ist das Volumen der revolvierenden Konsumentenkredite von {entity}?
+Welche spezifischen Kreditrisikoanpassungen hat {entity} vorgenommen?
+Wie hoch ist der Anteil der fälligen Forderungen über 90 Tage bei {entity}?
+Nenne die Gesamtsumme der Verbindlichkeiten gegenüber Kreditinstituten für {entity}.
+Welche Hedging-Instrumente setzt {entity} laut FINREP ein?
+Wie hoch ist der aggregierte Bonuspool für das Geschäftsjahr bei {entity}?
+Welche Rückstellungen für drohende Verluste aus Bürgschaften meldet {entity}?
+Wie hoch ist der Zinsertrag aus Schuldverschreibungen für {entity}?
+Zeige die Eigenkapitalstruktur von {entity} gemäß COREP-Daten.
+Wie hoch sind die Transaktionskosten für Wertpapiere bei {entity}?
+Welche Kreditfazilitäten wurden von {entity} an öffentliche Haushalte vergeben?
+Wie hoch ist die Kapitalerhaltungs-Pufferquote für {entity}?
+Welche immateriellen Vermögenswerte ohne Firmenwert meldet {entity}?
+Wie hoch ist der Fair Value der derivativen Finanzinstrumente von {entity}?
+Welche Sektorzuordnungen (NACE-Codes) nutzt {entity} in AnaCredit?
+Wie hoch ist der Saldo der sonstigen betrieblichen Erträge für {entity}?
+Welche kumulierten Änderungen des beizulegenden Zeitwerts meldet {entity}?
+Wie hoch ist die Gesamtsumme der gedeckten Schuldverschreibungen von {entity}?
+Welche Angaben zur Mitarbeiterfluktuation macht {entity} im Vergütungsbericht?
+Wie hoch ist der gewichtete Durchschnittszinssatz für Hypotheken bei {entity}?
+Welche Rückgewinnungen aus abgeschriebenen Forderungen verzeichnet {entity}?
+Wie hoch ist der Anteil des Tier 1 Kapitals an den Gesamtrisikopositionen von {entity}?
+Welche finanziellen Vermögenswerte hält {entity} in der Kategorie "zu fortgeführten Anschaffungskosten"?
+Wie hoch ist die Anzahl der Kreditverträge von {entity} im AnaCredit-System?
+Welche Dividendenerträge aus Beteiligungen meldet {entity}?
+Wie hoch ist die Mindestkapitalanforderung für das Fremdwährungsrisiko von {entity}?
+Zeige die Aufteilung der Provisionserträge aus dem Zahlungsverkehr für {entity}.
+Wie hoch ist die vertragliche Laufzeit der größten Kreditposition von {entity}?
+Welche Pensionsverpflichtungen meldet {entity} in den ITS-Berichten?
+Wie hoch ist der Betrag der sonstigen Reserven für {entity}?
+Welche Wertminderungen auf Sachanlagen hat {entity} vorgenommen?
+Wie hoch ist die Ausnutzungsquote der zugesagten Kreditlinien bei {entity}?
+Welche Schwellenwert-Ausnahmen nutzt {entity} bei der COREP-Meldung?
+Wie hoch ist der Bruttobuchwert der gestundeten Forderungen von {entity}?
+Welche kumulierten negativen Bewertungsreserven weist {entity} aus?
+Wie hoch ist der Barwert der künftigen Cashflows für das Portfolio von {entity}?
+Welche Vergütungssummen entfallen auf den Vorstand von {entity}?
+Wie hoch ist der Bestand an Bargeld im Kassenbestand von {entity}?
+Welche Risikopositionswerte (EAD) meldet {entity} für das Privatkundengeschäft?
+Wie hoch ist der Anteil der variabel verzinsten Kredite bei {entity}?
+Welche Konsolidierungsmethode wendet {entity} in den FINREP-Daten an?
+Wie hoch ist die Anzahl der gemeldeten Instrumente für {entity} in MFI?
+Welche Verbindlichkeiten aus dem Emissionsgeschäft meldet {entity}?
+Wie hoch ist der Nettoinventarwert der Investmentfondsanteile von {entity}?
+Welche Rückstellungen für Rechtsstreitigkeiten hat {entity} gebildet?
+Wie hoch ist die Kernkapitalquote (CET1 Ratio) von {entity} nach Abzügen?
+Welche Arten von Verbriefungen hält {entity} in seinem Portfolio?
+Wie hoch ist der Leverage Ratio Exposure Betrag für {entity}?
+Welche Erträge aus dem Abgang von Finanzinstrumenten meldet {entity}?
+Wie hoch ist der Anteil der durch Immobilien besicherten Kredite bei {entity}?
+Welche Angaben zur voraussichtlichen Verlustrate (EL) macht {entity}?
+Wie hoch ist der Bestand an kurzfristigen Schatzwechseln von {entity}?
+Welche Zinserträge aus Derivaten meldet {entity} im ITS-Reporting?
+Wie hoch ist die Anzahl der Identifizierten Mitarbeiter (Risk Takers) bei {entity}?
+Welche Bilanzsumme meldet {entity} zum Ende des vierten Quartals?
+Wie hoch ist der Betrag der Minderheitsanteile am Eigenkapital von {entity}?
+Welche Währungsumrechnungsdifferenzen weist {entity} in FINREP aus?
+Wie hoch ist die Gesamtsumme der täglich fälligen Einlagen bei {entity}?
+Welche Korrekturen für den Prudent Valuation Ansatz meldet {entity}?
+Wie hoch ist das Volumen der gedeckten Kredite an KMU bei {entity}?
+Welche Angaben zur Geschlechterquote in Führungspositionen macht {entity}?
+Wie hoch ist die Volatilitätsanpassung für die Eigenmittel von {entity}?
+Does the {entity} report include any significant changes to Tier 1 capital?
+How does {entity} compare to its peers in terms of NPL ratios?
+Which specific {entity} assets are currently classified as encumbered?
+Can the {entity} data for AnaCredit be filtered by industrial sector?
+What did {entity} report as the total value of deferred tax assets?
+Has the {entity} leverage ratio remained stable over the last quarter?
+Is every {entity} credit exposure above the reporting threshold for AnaCredit?
+Where can {entity} staff remuneration be found in the ITS templates?
+Why did {entity} increase its provisions for stage 2 financial assets?
+Should the {entity} liquidity coverage ratio be calculated on a consolidated basis?
+Are all {entity} subsidiaries included in the FINREP 2.0 mapping?
+How much {entity} interest income is derived from residential mortgages?
+Has any {entity} instrument been reclassified under MFI statistics lately?
+Will the {entity} risk-weighted assets change after the new model validation?
+Do the {entity} remuneration policies comply with the latest EBA guidelines?
+Can we {entity} cross-reference the credit risk data with COREP?
+What are {entity} total liabilities towards non-financial corporations?
+Does this {entity} entry represent a single loan or a multi-instrument contract?
+Is the {entity} net stable funding ratio above the regulatory minimum?
+Which of {entity} high-earners are classified as senior management?
+Welche für {entity} gemeldeten Daten betreffen das harte Kernkapital?
+Warum wurde {entity} in der letzten MFI-Zinsstatistik nicht berücksichtigt?
+Inwiefern sind {entity} Risikopositionswerte von der neuen Verordnung betroffen?
+Wann wurden {entity} AnaCredit-Stammdaten zuletzt vollständig aktualisiert?
+Wie hoch sind {entity} Verbindlichkeiten gegenüber anderen Kreditinstituten?
+Kann man {entity} Portfolio nach dem LGD-Wert sortieren?
+Welche von {entity} gehaltenen Wertpapiere gelten als hochliquid (HQLA)?
+In welcher {entity} Meldung finden wir die Angaben zur Asset Encumbrance?
+Wie viele {entity} Mitarbeiter erhielten eine Abfindung über 100.000 Euro?
+Sind die {entity} Eigenmittel ausreichend für die aktuelle P2R-Anforderung?
+Wurden für {entity} alle notleidenden Kredite in FINREP markiert?
+Welche der {entity} Derivate dienen primär der Absicherung von Zinsrisiken?
+Warum ist {entity} Leverage Ratio unter die 3%-Marke gefallen?
+Wie werden {entity} Konsumentenkredite in der MFI-Statistik kategorisiert?
+Welche bei {entity} hinterlegten Sicherheiten wurden als Immobilien bewertet?
+Können wir {entity} Zinserträge mit dem Vorjahresquartal vergleichen?
+Sind alle {entity} Großkredite innerhalb der zulässigen Obergrenzen?
+Wie hoch ist {entity} Anteil an den gesamten staatlichen Einlagen?
+Welche für {entity} spezifischen Risikogewichte wurden im IRBA angewendet?
+Warum weichen {entity} Bilanzdaten von den aufsichtlichen Meldewerten ab?
+Hat die {entity} Geschäftsführung die neuen Vergütungsregeln bereits genehmigt?
+Inwieweit beeinflussen {entity} Pensionsrückstellungen das regulatorische Kapital?
+Welche für {entity} gemeldeten Instrumente sind als revolvierend gekennzeichnet?
+Wie sind {entity} sonstige betriebliche Aufwendungen im Detail gegliedert?
+Wurden seitens {entity} alle erforderlichen Korrekturen für Prudent Valuation vorgenommen?
+Welche der {entity} Tochterbanken meldet eigenständig nach AnaCredit?
+Wie hoch ist {entity} Exposure gegenüber dem privaten Bausektor?
+Können die {entity} Gewinnrücklagen zur Deckung von Verlusten genutzt werden?
+Welche für {entity} relevanten Zinssätze wurden für Neugeschäfte gemeldet?
+In welchem {entity} Berichtsteil stehen die Informationen zu gestundeten Krediten?
+Wie groß ist {entity} Puffer für das systemische Risiko?
+Welche von {entity} ausgegebenen Schuldverschreibungen laufen dieses Jahr aus?
+Hat sich {entity} Eigenkapitalrendite seit der Fusion signifikant verbessert?
+Welche bei {entity} geführten Konten zählen zur Geldmenge M3?
+Wie werden {entity} immaterielle Vermögenswerte in der COREP CA1-Tabelle behandelt?
+Welche der {entity} Risk-Taker unterliegen der Bonus-Cap-Regelung?
+Warum sind {entity} Wertminderungen in Stufe 3 so stark gestiegen?
+Wie hoch ist {entity} Nettozinsspanne im Vergleich zum Marktdurchschnitt?
+Welche für {entity} gemeldeten Sicherheiten sind staatlich garantiert?
+Kann man {entity} Leverage-Exposure-Betrag nach Assetklassen aufschlüsseln?
+Wie viele {entity} Kreditnehmer haben ihren Sitz außerhalb der EU?
+Welche für {entity} geltenden Mindestreserveanforderungen wurden im April erfüllt?
+Warum wurden {entity} liquide Mittel im LCR-Bericht reduziert?
+In welchem {entity} Segment ist die Ausfallwahrscheinlichkeit am höchsten?
+Welche der {entity} Rückstellungen betreffen laufende Steuerverfahren?
+Wie hoch ist {entity} kumuliertes sonstiges Ergebnis (OCI)?
+Welche für {entity} erfassten AnaCredit-Daten müssen monatlich geliefert werden?
+Sind die {entity} Cashflow-Hedges im FINREP korrekt dokumentiert?
+Wie viele {entity} Konten wurden als inaktive Konten gemeldet?
+Welche der {entity} Handelsaktiva unterliegen dem beizulegenden Zeitwert?
+Warum weisen {entity} MFI-Daten Diskrepanzen zur Bilanz auf?
+Wie hoch ist {entity} Verschuldung gegenüber der Zentralbank?
+Welche für {entity} ermittelten RWAs entfallen auf das operationelle Risiko?
+Kann man {entity} Gebührenüberschuss nach Dienstleistungsarten trennen?
+Wie viele {entity} Mitarbeiter erhalten eine Vergütung über 5 Millionen Euro?
+Welche für {entity} gemeldeten Fazilitäten sind unwiderruflich zugesagt?
+Warum ist {entity} Kapitalerhaltungspuffer derzeit nicht vollständig gefüllt?
+Welche bei {entity} genutzten Bewertungsmethoden entsprechen dem IFRS 13?
+Wie hoch ist {entity} Exposure-Value im Standardansatz für Kreditrisiken?
+Welche der {entity} Tochtergesellschaften sind im FINREP-Konsolidierungskreis?
+Hat sich {entity} Kosten-Ertrags-Verhältnis durch die Digitalisierung verbessert?
+Welche für {entity} erfassten Schutzinstrumente sind physischer Natur?
+Wie hoch ist {entity} Anteil an notleidenden Leasingforderungen?
+Warum wurde {entity} NSFR-Bericht im letzten Monat korrigiert?
+Welche der {entity} Passiva sind als nachrangige Verbindlichkeiten eingestuft?
+Wie viele {entity} Kredite haben eine Laufzeit von über fünf Jahren?
+Welche für {entity} relevanten Makro-Daten fließen in den EBA-Stresstest ein?
+Warum sind {entity} sonstige Reserven im Eigenkapital gesunken?
+Wie hoch ist {entity} aggregierte variable Vergütung im Investmentbanking?
+Welche der {entity} Aktiva sind als Finanzinvestitionen klassifiziert?
+Wie wird {entity} CVA-Risiko in den COREP-Vorlagen berechnet?
+Welche für {entity} gemeldeten Einlagen unterliegen der Einlagensicherung?
+Warum ist {entity} Netto-Cash-Outflow höher als erwartet?
+Welche bei {entity} geführten Kontokorrentkredite sind überzogen?
+Wie hoch ist {entity} Quote für die Asset Quality Review (AQR)?
+Welche der {entity} Finanzgarantien wurden als Kreditersatz eingestuft?
+Wie viele {entity} Verträge sind im AnaCredit-Datensatz als "Default" markiert?
+Warum hat {entity} die Dividendenzahlungen für dieses Jahr ausgesetzt?
+Welche für {entity} geltenden aufsichtlichen Benchmarking-Anforderungen gibt es?
+Wie hoch ist {entity} Exposure gegenüber Schattenbanken?
+Zeige mir alle Risikopositionen für {entity} im aktuellen COREP-Bericht.
+Wie hoch ist das Exposure von {entity} gemäß den FINREP-Leitlinien?
+Extrahiere die Stammdaten für den Kreditnehmer {entity} aus der AnaCredit-Datenbank.
+Welche Eigenkapitalanforderungen gelten für {entity} laut den ITS on Reporting?
+Suche nach Meldewerten für {entity} in der Tabelle für MFI-Statistiken.
+Wie viele notleidende Kredite sind für {entity} in FINREP verzeichnet?
+Berechne die harte Kernkapitalquote für das Institut {entity}.
+Gibt es Überschreitungen der Großkreditobergrenze bei {entity}?
+Listen Sie alle Verbindlichkeiten von {entity} gegenüber monetären Finanzinstituten auf.
+Welche Zinssätze wurden für {entity} in der MFI-Zinsstatistik gemeldet?
+Überprüfe die Validierungsregeln für den Datensatz von {entity} in AnaCredit.
+Erstelle eine Übersicht der Vergütungsberichte für {entity} im Bereich Remuneration.
+Wie hoch ist der Buchwert der finanziellen Vermögenswerte von {entity}?
+Welche Leverage Ratio wurde für {entity} im letzten Quartal gemeldet?
+Identifiziere die Asset-Klasse von {entity} nach COREP-Standard.
+Zeige die Aufgliederung der Sicherheiten für den Vertrag {entity}.
+Hat {entity} die Schwellenwerte für die MFI-Statistik überschritten?
+Wie hoch war die Gesamtvergütung der Risikoträger bei {entity}?
+Ermittle den Ausfallstatus für das Instrument {entity} in AnaCredit.
+Welche derivativen Instrumente hält {entity} laut FINREP-Tabelle 10?
+Vergleiche die RWA-Werte von {entity} zwischen Q1 und Q2.
+Gibt es für {entity} spezifische Meldepflichten unter COREP ALM?
+Analysiere die Liquiditätsdeckungsquote (LCR) von {entity}.
+Welche Bilanzsumme wird für {entity} in den ITS-Dokumenten ausgewiesen?
+Suche nach der Legal Entity Identifier (LEI) für {entity}.
+Wie wird die Wertberichtigung für {entity} in FINREP behandelt?
+Zeige mir die Kreditfazilitäten für den Kunden {entity}.
+Welche variablen Vergütungsbestandteile wurden für {entity} gemeldet?
+Ist {entity} als bedeutendes Institut (SI) eingestuft?
+Berechne den Net Stable Funding Ratio (NSFR) für {entity}.
+Finde alle aktiven Kredite von {entity} in der AnaCredit-Meldung.
+Welche Sektor-Klassifizierung hat {entity} in der MFI-Statistik?
+Prüfe die Einhaltung der Meldefrist für {entity}.
+Wie hoch ist das Kreditrisiko für das Portfolio {entity}?
+Zeige die Verlustvorträge für {entity} in der FINREP-Bilanz.
+Welche Datenfelder fehlen für {entity} in der AnaCredit-Einreichung?
+Summiere die Einlagen von {entity} laut MFI-Bilanzstatistik.
+Welche Governance-Struktur hat {entity} im Remuneration-Bericht hinterlegt?
+Analysiere die Zinsänderungsrisiken für {entity} im Anlagebuch.
+Gibt es für {entity} Informationen zu gestundeten Krediten (Forbearance)?
+Welche Meldebögen sind für {entity} unter COREP verpflichtend?
+Identifiziere die Muttergesellschaft von {entity} für die Gruppenberichterstattung.
+Wie hoch ist der Fair Value der Wertpapiere von {entity}?
+Überprüfe die Fehlermeldungen für {entity} im Rückmeldeprozess.
+Suche nach der Branchenkennzahl (NACE) für {entity}.
+Welche Pensionsverpflichtungen meldet {entity} in FINREP?
+Zeige die Laufzeitstruktur der Verbindlichkeiten von {entity}.
+Wie hoch ist die risikogewichtete Positionskapitalanforderung für {entity}?
+Welche Boni wurden an die Geschäftsführung von {entity} gezahlt?
+Prüfe den Konsolidierungskreis für das Institut {entity}.
+Welche Abschreibungen wurden auf {entity} im Berichtsjahr vorgenommen?
+Finde die Ausfallwahrscheinlichkeit (PD) für den Schuldner {entity}.
+Wie hoch ist die Verlustquote bei Ausfall (LGD) für {entity}?
+Zeige die Cashflows für das Finanzinstrument {entity}.
+Welche steuerlichen Latenzen weist {entity} in FINREP aus?
+Überprüfe die Kontrollbeziehungen zwischen {entity} und seinen Tochtergesellschaften.
+Wie viele Mitarbeiter fallen bei {entity} unter die Remuneration-Regeln?
+Welche Rechnungslegungsstandards wendet {entity} an (IFRS vs. HGB)?
+Analysiere das Fremdwährungsrisiko von {entity}.
+Welche Garantien wurden von {entity} als Sicherheit akzeptiert?
+Suche nach der internen Rating-Klasse für {entity}.
+Wie hoch ist der Zinsüberschuss von {entity} laut Gewinn- und Verlustrechnung?
+Zeige die geographische Verteilung der Risikopositionen von {entity}.
+Welche operationellen Risiken werden für {entity} in COREP gemeldet?
+Prüfe die Datenqualität der Adresse von {entity} in AnaCredit.
+Wie hoch ist das notleidende Volumen von {entity} im Immobiliensektor?
+Welche Rückstellungen hat {entity} für Rechtsrisiken gebildet?
+Zeige die Zusammensetzung der Ergänzungskapitalinstrumente von {entity}.
+Welche Fristentransformation betreibt {entity} laut MFI-Daten?
+Identifiziere alle verbundenen Kunden der Gruppe {entity}.
+Wie hoch sind die Gebühreneinnahmen von {entity} im Investmentbanking?
+Welche Verbriefungspositionen hält {entity} im Portfolio?
+Überprüfe die Meldung der Verschuldungsquote für {entity}.
+Wie viel Kernkapital steht {entity} zur Verfügung?
+Welche außerbilanziellen Geschäfte führt {entity} in FINREP auf?
+Suche nach dem Gründungsdatum der Einheit {entity}.
+Wie hoch ist der Konzentrationsrisikopuffer für {entity}?
+Welche Zinsbindungsfrist hat der Kredit {entity}?
+Analysiere die Eigenkapitalrendite (ROE) von {entity}.
+Zeige die Berichtigungsposten für das Kreditportfolio von {entity}.
+Show me the total risk exposure amount for {entity} in the COREP framework.
+What is the impairment status of the loan held by {entity} according to FINREP?
+Retrieve the counterparty identifier for {entity} in the AnaCredit dataset.
+How many high earners were reported under Remuneration guidelines for {entity}?
+List the interest rate fixings for {entity} in the MFI statistics.
+What is the Common Equity Tier 1 ratio for {entity} this quarter?
+Find the carrying amount of financial assets for {entity} in Table 1.1.
+Identify the institutional sector of {entity} as per ITS on reporting.
+Are there any validation errors for the {entity} record in the submission?
+What is the default probability assigned to {entity} in the IRB approach?
+Show the breakdown of non-performing exposures for {entity}.
+Calculate the leverage ratio for {entity} using the latest FINREP data.
+Which collateral types are linked to the instrument {entity}?
+Check the deferred tax assets for {entity} in the balance sheet.
+What are the total liabilities of {entity} to other MFIs?
+List all staff members at {entity} with a fixed salary over 1 million euros.
+How does {entity} classify its fair value hierarchy levels?
+Retrieve the LEI code for the legal entity {entity}.
+What is the net stable funding ratio reported by {entity}?
+Extract the protection value for the loan issued to {entity}.
+Wie hoch ist der Exposure-Wert für {entity} nach der Standardmethode?
+Ermittle die Restlaufzeit aller Kontrakte von {entity} in AnaCredit.
+Welche Abzugsposten vom Eigenkapital wurden für {entity} gemeldet?
+Zeige mir die Dividendenerträge von {entity} laut FINREP-GuV.
+Wie wird {entity} in der Liste der engen Verbindungen geführt?
+Berechne die risikogewichteten Aktiva für das Marktrisiko von {entity}.
+Welche Art von Sicherheit hinterlegt {entity} für den besicherten Kredit?
+Suche die Postleitzahl des Hauptsitzes von {entity} im Stammdatenblatt.
+Wie hoch ist die Ausnutzung der Kreditlinie durch {entity}?
+Welche Rückzahlungsmodalitäten wurden für den Vertrag {entity} vereinbart?
+Zeige alle Transaktionen zwischen {entity} und der Konzernmutter.
+Wie hoch ist das Nettoergebnis aus Sicherungsgeschäften für {entity}?
+Welche regulatorischen Konsolidierungsmethoden finden bei {entity} Anwendung?
+Prüfe die Richtigkeit der Branchenklassifizierung für {entity}.
+Wie hoch ist der Marktwert der von {entity} gehaltenen Staatsanleihen?
+Ermittle die jährliche Fluktuationsrate der Risikoträger bei {entity}.
+Welche spezifischen Kreditrisikoanpassungen entfallen auf {entity}?
+Zeige die Aufschlüsselung der Sachanlagen für das Institut {entity}.
+Wie hoch ist das Volumen der revolvierenden Kredite von {entity}?
+Welche Meldepflichten bestehen für {entity} im Rahmen der Asset Encumbrance?
+Identifiziere die Währung des Instruments {entity} in der MFI-Meldung.
+Wie hoch ist der Verschuldungsgrad von {entity} nach dem Übergangsansatz?
+Liste alle Stillhaltevereinbarungen (Forbearance) für {entity} auf.
+Welche Bilanzposten von {entity} unterliegen dem Fair-Value-Option-Modell?
+Suche nach der Steuernummer der juristischen Person {entity}.
+Wie hoch ist der Anteil der kurzfristigen Refinanzierung bei {entity}?
+Welche kumulierten sonstigen Ergebnisse (OCI) weist {entity} aus?
+Ermittle die Ausfalltage für die Forderung gegenüber {entity}.
+Wie hoch ist die Deckungsquote der Rückstellungen für {entity}?
+Welche privilegierten Einlagen hält {entity} im Einlagensicherungssystem?
+Zeige die Verteilung der Besicherungsgrade für das Portfolio {entity}.
+Wie wird der Firmenwert (Goodwill) von {entity} in FINREP bilanziert?
+Welche qualifizierten Beteiligungen hält {entity} an anderen Unternehmen?
+Prüfe den Status der Identifikationsnummer (ID) für {entity}.
+Wie hoch ist das Exposure-at-Default (EAD) für den Kunden {entity}?
+Welche variablen Zinskomponenten sind im Vertrag {entity} enthalten?
+Zeige die außerordentlichen Erträge von {entity} im letzten Geschäftsjahr.
+Wie hoch ist die Anzahl der gemeldeten Instrumente für {entity} in AnaCredit?
+Welche Risikogewichte werden auf die Positionen von {entity} angewandt?
+Ermittle die Restschuld des Darlehens von {entity} zum Stichtag.
+Welche Meldefrequenz gilt für {entity} unter den ITS-Vorgaben?
+Zeige die Korrekturposten für den Rechnungsabgrenzungsposten von {entity}.
+Wie hoch ist das regulatorische Kapital von {entity} vor Abzügen?
+Welche Art der finanziellen Unterstützung erhält {entity} von Dritten?
+Suche nach dem Sitzland der Gegenpartei {entity}.
+Wie hoch ist die Volatilitätsanpassung für die Besicherung von {entity}?
+Welche Derivate von {entity} werden über eine zentrale Gegenpartei gecleart?
+Zeige die Entwicklung der Wertberichtigungen für {entity} über die Zeit.
+Wie hoch ist die Eigenmittelanforderung für das Abwicklungsrisiko von {entity}?
+Welche Informationspflichten hat {entity} gemäß Säule 3 des Basler Abkommens?
+Ermittle den Bruttobuchwert der Forderungen gegen {entity}.
+Wie hoch ist die vertragliche Tilgungsrate für das Objekt {entity}?
+Welche Verzugszinsen wurden für {entity} im System hinterlegt?
+Zeige die Beteiligungsquote von {entity} an dem Joint Venture.
+Wie hoch ist der Anteil des Kernkapitals an den Gesamtrisikopositionen von {entity}?
+Welche Kreditverbesserungen (Credit Enhancements) nutzt {entity}?
+Suche nach dem Datum der letzten Bonitätsprüfung für {entity}.
+Wie hoch ist die Leverage-Ratio-Exposure-Maßgröße von {entity}?
+Welche Rechnungslegungs-Kategorie (Holding Intent) hat {entity}?
+Zeige die Zinsaufwendungen für die Verbindlichkeiten von {entity}.
+Wie hoch ist das Netto-Exposure von {entity} nach Kreditrisikominderung?
+Welche latenten Steuerschulden sind für {entity} in FINREP erfasst?
+Ermittle den Beleihungsauslauf (LTV) für die Finanzierung von {entity}.
+Wie hoch ist die Sanierungsquote für den ausgefallenen Kredit von {entity}?
+Welche Auswirkungen hat die IFRS 9 Umstellung auf {entity}?
+Zeige die sektoralen Konzentrationen innerhalb der Gruppe {entity}.
+Wie hoch ist die Mindestreserveverpflichtung für {entity}?
+Welche hybriden Kapitalinstrumente hat {entity} emittiert?
+Suche nach der Mitarbeiterkategorie für {entity} im Vergütungsbericht.
+Wie hoch ist die Inanspruchnahme von Fazilitäten durch {entity}?
+Welche Sicherheiten-Haircuts werden auf das Depot von {entity} angewendet?
+Zeige die operativen Erträge von {entity} nach Segmenten.
+Wie hoch ist die Kapitalerhaltungs-Pufferanforderung für {entity}?
+Welche Verbriefungsart (synthetisch vs. traditionell) nutzt {entity}?
+Ermittle die Anzahl der Konten, die auf den Namen {entity} laufen.
+Wie hoch ist die Wahrscheinlichkeit einer Herabstufung des Ratings von {entity}?
+Welche Eventualverbindlichkeiten meldet {entity} im Anhang?
+Zeige die Cashflow-Hedge-Rücklage für die Einheit {entity}.
+Wie hoch ist die Kosten-Ertrags-Quote (CIR) von {entity}?
+Welche ESG-Risiken sind für den Kunden {entity} dokumentiert?
+Calculate the risk-weighted assets for the operational risk of {entity}.
+What is the total amount of encumbered assets for {entity} in the COREP report?
+Retrieve the internal credit assessment for the borrower {entity}.
+How many severance payments were made to senior management at {entity}?
+List the fiduciary assets managed by {entity} according to FINREP templates.
+What is the classification of {entity} under the NACE economic activity codes?
+Find the net interest margin for the subsidiary {entity}.
+Identify the ultimate parent undertaking for the entity {entity}.
+What are the specific allowances for credit losses related to {entity}?
+Show the maturity ladder for the liquidity coverage of {entity}.
+How much Tier 2 capital is recognized for {entity} in the total capital?
+Determine the accounting valuation method for the instrument {entity}.
+What is the contractual interest rate for the credit facility {entity}?
+Check the status of non-performing loans (NPL) for {entity} in the real estate portfolio.
+List the off-balance sheet exposures for the counterparty {entity}.
+What is the amount of retained earnings for {entity} in the equity section?
+Extract the legal form of {entity} from the AnaCredit reference data.
+How is the concentration risk of {entity} monitored in the large exposure report?
+Show the fair value of level 3 financial instruments held by {entity}.
+What is the total volume of deposits from households at {entity}?

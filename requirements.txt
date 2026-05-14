@@ -7,3 +7,7 @@ pytest-asyncio
 litellm
 pandas
 lancedb
+gliner
+torch
+transformers
+accelerate

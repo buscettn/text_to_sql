@@ -1,0 +1,287 @@
+Wie hoch war die Gesamtsumme der Aktiva laut FINREP im vierten Quartal 2023?
+Zeige mir alle Kredite in AnaCredit mit einem Zinssatz über 5%.
+Wie viele Institute haben die COREP-Meldung für die Liquiditätsdeckungsquote verspätet eingereicht?
+Nenne den Durchschnittswert der Eigenmittelanforderungen für Marktrisiken im Jahr 2024.
+Liste alle Instrumente in AnaCredit auf, die als notleidend eingestuft sind.
+Wie hoch ist die harte Kernkapitalquote (CET1) für Institute mit einer Bilanzsumme über 10 Milliarden Euro?
+Welche Meldebögen sind für die MFI-Zinsstatistik monatlich einzureichen?
+Extrahiere die Anzahl der natürlichen Personen in der AnaCredit-Datenbank nach Postleitzahl.
+Wie hoch war der Zinsertrag aus Hypothekarkrediten im letzten Berichtszeitraum?
+Zeige die Verteilung der Risikopositionswerte (EAD) nach Risikogewichtsklassen in COREP.
+Welche Institute meldeten eine Verschuldungsquote von unter 3%?
+Liste die Top 10 Engagements in AnaCredit basierend auf dem ausstehenden Nennbetrag auf.
+Wie hat sich die harte Kernkapitalquote zwischen Q1 und Q4 2023 im Durchschnitt verändert?
+Welche Datenpunkte sind im ITS on Reporting für die Leverage Ratio verpflichtend?
+Wie hoch ist das Gesamtvolumen der besicherten Kredite laut FINREP Tabelle 13?
+Nenne die Anzahl der Institute, die der Remuneration-Statistik unterliegen.
+Welche Währungen sind in der MFI-Bilanzstatistik am häufigsten vertreten?
+Ermittle die Summe der Wertberichtigungen für Stufe-2-Kredite in FINREP.
+Wie viele Kredite in AnaCredit haben eine Restlaufzeit von mehr als 10 Jahren?
+Zeige die Eigenmittelanforderungen für das Kreditrisiko im Standardansatz.
+Welche Sektoren haben das höchste Kreditvolumen in den MFI-Daten?
+Wie hoch ist die Quote der notleidenden Kredite (NPL) im Immobiliensektor?
+Liste alle meldepflichtigen Vergütungskomponenten für Risk Taker auf.
+Wie viele Verträge in AnaCredit sind mit einer Bürgschaft abgesichert?
+Zeige die Bilanzsummen aller Institute in der Eurozone laut MFI-Statistik.
+Welche ITS-Meldeschemata gelten für kleine und nicht komplexe Institute?
+Wie hoch ist der Anteil der variablen Vergütung am Gesamtgehalt im Durchschnitt?
+Identifiziere alle Instrumente mit einem Schwellenwert von über 25.000 Euro in AnaCredit.
+Welche Positionen fallen unter die kurzfristige Liquiditätsquote (LCR) in COREP?
+Extrahiere die Zinsbindungsfristen für Neugeschäft aus der MFI-Statistik.
+Wie hoch ist die Leverage Ratio nach dem Übergangszeitraum?
+Welche Meldeschwellen gelten für die Asset Encumbrance Meldung?
+Zeige die Aufgliederung der Verbindlichkeiten nach Ursprungsländern in FINREP.
+Wie viele Institute nutzen interne Modelle (IRB) für die COREP-Meldung?
+Berechne die durchschnittliche risikogewichtete Positionsvariable (RWA) für KMU.
+Welche Datenfelder sind für den Counterparty-Identifier in AnaCredit erforderlich?
+Wie hoch ist das Volumen der revolvierenden Kredite in der MFI-Statistik?
+Liste die Wertminderungen für finanzielle Vermögenswerte nach IFRS 9 Stufen auf.
+Wie viele Mitarbeiter erhalten eine Vergütung von mehr als einer Million Euro pro Jahr?
+Welche Arten von Sicherheiten werden in AnaCredit am häufigsten gemeldet?
+Wie hoch ist die Net Stable Funding Ratio (NSFR) im Durchschnitt des Sektors?
+Zeige die Zinserträge für Unternehmenskredite im Vergleich zum Vorjahr.
+Welche Institute sind zur Abgabe der FINREP-Einzelabschlussdaten verpflichtet?
+Wie hoch ist der Deckungsgrad für notleidende Kredite in FINREP?
+Nenne die Gesamtanzahl der gemeldeten juristischen Personen in AnaCredit.
+Welche Risikogewichte werden für staatliche Risikopositionen in COREP verwendet?
+Wie hoch ist die durchschnittliche Eigenkapitalrentabilität (ROE) laut FINREP?
+Liste die fälligen Beträge für Einlagen von privaten Haushalten auf.
+Welche Meldebögen betreffen die Großkreditvorgaben (Large Exposures)?
+Wie hoch ist die Summe der außerbilanziellen Posten in der COREP-Meldung?
+Welche Zinssätze gelten für Einlagen mit vereinbarter Laufzeit in der MFI-Statistik?
+Wie hoch ist der Anteil der besicherten Refinanzierung in der LCR?
+Ermittle die Ausfallwahrscheinlichkeit (PD) für das Retail-Portfolio in AnaCredit.
+Welche Institute meldeten Daten zur Geschlechterverteilung in der Remuneration-Statistik?
+Wie hoch sind die Gebühren- und Provisionserträge im aktuellen Quartal?
+Liste die Bruttobuchwerte für Kredite an Gebietsfremde auf.
+Welche Datenvalidierungen (Validation Rules) schlagen bei COREP C 07.00 oft fehl?
+Wie hoch ist der Anteil der Staatsanleihen an der Bilanzsumme?
+Identifiziere Instrumente in AnaCredit ohne gültigen LEI-Code.
+Wie hoch ist die Quote der belasteten Vermögenswerte (Asset Encumbrance Ratio)?
+Welche Informationen sind in der MFI-Zinsstatistik für Überziehungskredite enthalten?
+Zeige die Eigenmittelanforderungen für operationelle Risiken nach dem Basisindikatoransatz.
+Wie hoch ist das Volumen der Kredite mit Zahlungsaufschub (Forbearance)?
+Welche Meldeperioden sind für AnaCredit-Stammdaten relevant?
+Wie hoch ist die durchschnittliche variable Vergütung pro Kopf in der Geschäftsleitung?
+Liste die Top 5 Länder mit dem höchsten Kreditrisiko laut COREP.
+Wie hoch ist der Barwert der Cashflows für Derivate in FINREP?
+Welche Konsolidierungskreise werden für die FINREP-Meldung herangezogen?
+Wie hoch ist die Verlustquote bei Ausfall (LGD) für besicherte Kredite?
+Welche Schwellenwerte gelten für die Meldung von Großkrediten?
+Wie viele Kredite wurden im letzten Monat in AnaCredit neu angelegt?
+Wie hoch ist der Bestand an Bargeld und Guthaben bei Zentralbanken?
+Welche Posten werden vom harten Kernkapital abgezogen?
+Wie hoch ist die durchschnittliche Laufzeit des Kreditportfolios?
+Liste die Risikopositionen gegenüber zentralen Gegenparteien auf.
+Welche Zinssätze werden für Konsumkredite in der MFI-Statistik gemeldet?
+Wie hoch ist die Dividendenausschüttungsquote laut den regulatorischen Daten?
+Welche Meldedaten fehlen für die AnaCredit-Einreichung zum Stichtag 31. März?
+Wie hoch ist der Anteil der Sichteinlagen an den Gesamtverbindlichkeiten?
+Liste alle Institute auf, die die Leverage Ratio von 3% unterschreiten.
+Welche Sektorenzuordnung (NACE-Code) wird in AnaCredit am häufigsten genutzt?
+Wie hoch ist das Volumen der Kredite an kleine und mittlere Unternehmen (KMU)?
+Welche ITS-Vorgaben gelten für die Meldung von Marktrisiken?
+Wie hoch ist der Zinsertrag aus Schuldverschreibungen im FINREP-Bericht?
+Liste die identifizierten Mitarbeiter (Risk Taker) nach Geschäftsbereichen auf.
+Wie hoch ist der Korrekturposten für das vorsichtige Bewertungsergebnis (Prudential Valuation)?
+Welche Sicherheitenkategorien sind in COREP C 09.00 enthalten?
+Wie hoch ist die Bilanzsumme der Kreditinstitute in Deutschland laut MFI?
+Welche Unterschiede bestehen zwischen FINREP und COREP bei der Kreditrisikomeldung?
+Wie hoch ist das ausstehende Volumen an syndizierten Krediten in AnaCredit?
+What is the total Tier 1 capital ratio for all institutions in the current reporting cycle?
+List the outstanding nominal amounts for all instruments in AnaCredit with a "Default" status.
+How many high earners were reported in the latest Remuneration statistics?
+Show the breakdown of Risk Weighted Assets (RWA) by exposure class in COREP.
+What are the average interest rates for new business loans to non-financial corporations in MFI Statistics?
+Identify all counterparties in AnaCredit that are classified as "SME" but have a turnover exceeding 50 million.
+What is the total value of non-performing exposures according to FINREP Table 18?
+How many institutions have a Liquidity Coverage Ratio (LCR) above 150%?
+List the deferred variable remuneration amounts for the last three financial years.
+What is the total exposure value for residential real estate loans in the ITS on reporting data?
+Wie hoch war die Gesamtkapitalquote laut COREP zum Stichtag 31.12.2025?
+Zeige mir alle Institute mit einer NPL-Ratio von über 5% im aktuellen FINREP-Reporting.
+Welche Risikopositionswerte wurden im Rahmen von AnaCredit für besicherte Kredite gemeldet?
+Liste die Zinserträge für das erste Quartal gemäß der MFI-Statistik auf.
+Wie viele Mitarbeiter fallen unter die Definition von Risk Takern in der letzten Remuneration-Meldung?
+Extrahiere die harten Kernkapitalinstrumente (CET1) für alle Banken der Kategorie 1.
+Welche Sicherheiten wurden für KMU-Kredite im Sektor Gewerbeimmobilien hinterlegt?
+Vergleiche die Leverage Ratio zwischen Q3 2025 und Q4 2025 basierend auf den ITS on Reporting.
+Nenne die Summe der notleidenden Risikopositionen für private Haushalte in der AnaCredit-Datenbank.
+Wie hoch ist die Liquiditätsdeckungsquote (LCR) im Durchschnitt des Sektors?
+Welche Institute haben die Meldefrist für FINREP im Mai überschritten?
+Zeige die Aufschlüsselung der Vergütung in fixe und variable Bestandteile für das Jahr 2024.
+Gibt es Abweichungen bei den Passiva in der MFI-Statistik im Vergleich zum Vormonat?
+Welche Bruttobuchwerte werden für ausländische Tochtergesellschaften in COREP ausgewiesen?
+Liste alle Kredite mit einer Laufzeit von über 10 Jahren aus dem AnaCredit-Datensatz.
+Wie hoch ist der Anteil der Stufe-3-Assets am Gesamtportfolio gemäß IFRS 9 in den FINREP-Tabellen?
+Welche Zinssätze wurden für Neugeschäfte bei Einlagen laut MFI-Zinsstatistik gemeldet?
+Identifiziere die Top 10 Institute nach bilanzieller Gesamtsumme im Rahmen der ITS.
+Wie viele Personen erhielten eine Abfindung von mehr als 1 Million Euro laut Remuneration Benchmarking?
+Berechne die Netto-Stabilisierungsquote (NSFR) für Institute mit einer Bilanzsumme unter 5 Mrd. Euro.
+Welche Sektorklassifizierung haben die Kreditnehmer im aktuellen AnaCredit-Extrakt?
+Zeige die Risikogewichteten Aktiva (RWA) für das Kreditrisiko im Standardansatz.
+Wie hoch sind die Wertberichtigungen für unbesicherte Verbraucherkredite?
+Suche nach grenzüberschreitenden Forderungen innerhalb der EU laut MFI-Statistik.
+Welche Vorstandsvergütungen wurden in der aggregierten Remuneration-Statistik erfasst?
+Liste die Eigenmittelanforderungen für operationelle Risiken auf.
+Wie hat sich die Cost-Income-Ratio im Jahresvergleich der FINREP-Daten entwickelt?
+Welche Währungen sind im AnaCredit-Reporting für Devisenkredite am häufigsten?
+Zeige die Verteilung der Kreditfazilitäten nach Postleitzahlgebieten.
+Wie hoch ist der Deckungsgrad für besicherte Kredite im COREP ALMM?
+Welche Zahlungsverzugstage wurden für Portfolien im Einzelhandel gemeldet?
+Extrahiere die Zinssensitivität der Handelsbuchpositionen.
+Nenne die Dividendenzahlungen, die das harte Kernkapital im Berichtszeitraum gemindert haben.
+Wie hoch ist das Exposure at Default (EAD) für den Sektor Landwirtschaft?
+Welche Verbriefungspositionen werden in den COREP-Templates C 14.00 geführt?
+Zeige die Summe der Sichteinlagen von Nicht-Finanzunternehmen laut MFI.
+Wie viele Großkredite überschreiten die Schwelle von 25% der anrechenbaren Eigenmittel?
+Welche Restlaufzeiten weisen die Verbindlichkeiten im NSFR-Reporting auf?
+Identifiziere identifizierte Mitarbeiter mit einer variablen Vergütung über 100% des Fixgehalts.
+Welche Immobilienbesicherungen wurden im Rahmen von AnaCredit neu bewertet?
+Wie hoch ist die Eigenkapitalrendite (RoE) vor Steuern laut FINREP?
+Liste alle Staatsanleihen im Anlagebuch nach Herkunftsland auf.
+Welche Derivate werden zur Absicherung des Zinsänderungsrisikos im Bankbuch (IRRBB) genutzt?
+Zeige die Inanspruchnahme von Kreditlinien durch KMUs.
+Wie hoch ist der Korridor für die Liquiditätsablaufbilanz in den ALMM-Meldungen?
+Welche Verlustvorträge wurden bei der Berechnung der Eigenmittel abgezogen?
+Suche nach notleidenden Leasingforderungen in der MFI-Statistik.
+Wie hoch ist das gezeichnete Kapital der Institute in der ITS-Datenbank?
+Welche sonstigen betrieblichen Aufwendungen stiegen im Q4 überproportional an?
+What is the total exposure value for sovereign debt in the latest COREP filing?
+List all borrowers in AnaCredit classified as Non-Financial Corporations.
+Retrieve the Common Equity Tier 1 (CET1) ratio for all banks reporting under IFRS.
+Show the interest rate spread for new mortgage loans according to MFI statistics.
+How many high earners were identified in the Remuneration report for the 2024 cycle?
+Calculate the coverage ratio for non-performing loans based on FINREP Table 18.
+What are the risk-weighted assets for market risk using the internal models approach?
+Identify the total carrying amount of financial assets held for trading.
+Which collateral types are most prevalent for corporate loans in the ITS dataset?
+Compare the Liquidity Coverage Ratio (LCR) requirements against actual liquid assets for Q1 2026.
+Maximilian Weber hat gestern sein gesamtes Portfolio in Staatsanleihen umschgeschichtet.
+Die Inflationsrate in Deutschland stieg im März überraschend auf 4,2%.
+Julia Schmidt analysiert die Kursentwicklung von Gold am Handelsplatz in Frankfurt.
+Der DAX verlor am Montag knapp 200 Punkte aufgrund der unsicheren Weltlage.
+In Berlin treffen sich heute Experten, um über die Regulierung von Kryptowährungen zu beraten.
+Thomas Müller kaufte für 5.000 Euro Anteile an einem nachhaltigen ETF.
+Die Rendite zehnjähriger Bundesanleihen erreichte heute ein neues Jahreshoch.
+Sarah Meyer arbeitet als Fondsmanagerin und spezialisiert sich auf den asiatischen Markt.
+Im April 2024 wird die neue Steuerrichtlinie für Kapitalerträge in Kraft treten.
+Der Wechselkurs zwischen dem Euro und dem US-Dollar bleibt weiterhin volatil.
+Andreas Bauer empfiehlt seinen Kunden, die Diversifikation im Depot zu erhöhen.
+Die Immobilienpreise in München sind im letzten Quartal leicht gesunken.
+Elena Fischer prüft die Bilanz des Unternehmens auf Unregelmäßigkeiten.
+In Hamburg wurde eine neue Konferenz für Fintech-Startups eröffnet.
+Christian Hoffmann investierte 10.000 CHF in Schweizer Versicherungswerte.
+Der Goldpreis pro Unze stieg am Nachmittag auf über 2.100 Dollar.
+Sabine Schulz plant ihre Altersvorsorge mit einer privaten Rentenversicherung.
+Die Wirtschaftsprognose für Europa wurde für das Jahr 2025 nach unten korrigiert.
+Lukas Wagner nutzt eine App, um seine Ausgaben in Echtzeit zu überwachen.
+Ein Sprecher des Finanzministeriums in Wien lehnte den Kommentar ab.
+Die Dividendenrendite der Aktie liegt aktuell bei stolzen 5%.
+Monika Richter hat ihr Festgeldkonto für eine Laufzeit von zwei Jahren verlängert.
+In Zürich werden die neuesten Trends im Private Banking diskutiert.
+Der Rohölpreis der Sorte Brent sank am Freitag um 3%.
+Stefan Koch berät mittelständische Firmen bei Börsengängen.
+Die Bundesregierung plant eine Förderung für energetische Sanierungen ab Januar.
+Karin Wolf kaufte gestern 50 Aktien eines Technologieunternehmens.
+In Luxemburg sind viele Investmentfonds ansässig.
+Der Risikoaufschlag für Unternehmensanleihen hat sich deutlich verringert.
+Peter Kurz analysiert täglich die Bewegungen an der Wall Street.
+Die Mehrwertsteuererhöhung belastet den Konsum in Frankreich.
+Anja Neumann hat ihren Bausparvertrag vorzeitig gekündigt.
+Die Marktkapitalisierung des Konzerns stieg auf über 100 Milliarden Euro.
+Bernd Schuster sieht großes Potenzial in Schwellenländer-Fonds.
+Die BaFin warnt vor unregulierten Handelsplattformen im Internet.
+Laura Vogt hat eine Umschuldung ihres Immobilienkredits beantragt.
+Im Herbst wird mit einer Erholung des Welthandels gerechnet.
+Johannes Haas ist Experte für Derivate und Optionen.
+Die Staatsverschuldung von Italien bleibt ein zentrales Thema in der EU.
+Claudia Jung investiert monatlich 250 Euro in einen Sparplan.
+Der Leitzins in den USA beeinflusst die globalen Kapitalmärkte massiv.
+Markus Lang hat sein Depot gegen Währungsschwankungen abgesichert.
+In London sank das Handelsvolumen aufgrund eines Feiertags.
+Die Quartalszahlen des Automobilherstellers übertrafen die Erwartungen der Analysten.
+Petra Sommer beobachtet den Spread zwischen An- und Verkaufspreisen.
+Die Inflation in Spanien ist niedriger als im EU-Durchschnitt.
+Holger Beck kaufte Silbermünzen als physische Wertanlage.
+Eine Unze Platin kostet derzeit rund 950 Euro.
+Daniela Roth prüft die Kreditwürdigkeit des Neukunden.
+Das Bruttoinlandsprodukt in Österreich stagnierte im letzten Jahr.
+Uwe Horn setzt auf eine Long-Strategie beim DAX.
+Die Transaktionsgebühren für den Aktienhandel wurden gesenkt.
+Melanie Frank wechselte ihre Yen in Euro um.
+In Genf fand gestern ein Gipfel zur globalen Finanzstabilität statt.
+Die Rendite der Staatsanleihen aus Japan ist extrem niedrig.
+Robert Schwarz nutzt technische Analyse für seine Daytrading-Entscheidungen.
+Der Nennwert der Anleihe beträgt 1.000 Euro.
+Sandra Weiß hat ein Erbe in verschiedene Immobilienfonds investiert.
+Die Wirtschaft in Polen wächst schneller als erwartet.
+Tobias Krüger warnt vor einer Immobilienblase in Großstädten.
+Der Ausgabepreis der neuen Aktie wurde auf 45 Euro festgesetzt.
+Verena Berg leitet die Abteilung für Risikomanagement.
+In Düsseldorf wird über die Zukunft der betrieblichen Altersvorsorge debattiert.
+Die Handelsbilanz von China weist einen hohen Überschuss aus.
+Matthias Kaiser kaufte Call-Optionen auf den Ölpreis.
+Die Mindestanlage für den Hedgefonds liegt bei 50.000 Euro.
+Nicole Heß analysiert die Auswirkungen der ESG-Kriterien.
+Der Börsenwert von Apple erreichte ein historisches Hoch.
+Ralf König hat seine Positionen in Technologiewerten reduziert.
+Die Arbeitslosenquote in Portugal ist auf dem niedrigsten Stand seit Jahren.
+Gisela Otto verwaltet das Vermögen einer wohlhabenden Familie.
+Eine Senkung der Kapitalertragsteuer wird aktuell diskutiert.
+Frank Peters investiert in Private Equity Projekte.
+Der Spread bei den Anleihen aus Griechenland hat sich eingeengt.
+Simone Graf eröffnete ein Depot für ihre Enkelkinder.
+In Stuttgart ist die Nachfrage nach Gewerbeimmobilien stabil.
+Die Geldmenge M3 wuchs im Berichtszeitraum moderat.
+Jürgen Hart setzt auf Kryptowährungen wie Bitcoin.
+Der Gold-Fixing-Preis in London lag heute Morgen stabil.
+Heike Busch berät Kunden zum Thema Erbschaftsteuer.
+Das Kurs-Gewinn-Verhältnis der Aktie ist mit 12 recht günstig.
+Dominik Sauer analysiert die Liquidität des Unternehmens.
+In Brüssel werden neue Regeln für den Zahlungsverkehr verabschiedet.
+Die Staatsanleihen von Brasilien gelten als Hochrisiko-Anlage.
+Tanja Maier hat einen Kredit für ihre Firmengründung aufgenommen.
+Der Basiszins für Spareinlagen liegt weiterhin nahe Null.
+Oliver Horn spezialisiert sich auf Micro-Cap Aktien.
+In Tokio schloss der Nikkei heute im Plus.
+Die Volatilität am Markt hat seit letzter Woche zugenommen.
+Kerstin Paul prüft den Prospekt für den neuen geschlossenen Fonds.
+Der Preis für Erdgas in Europa ist spürbar gefallen.
+Wolfgang Zeidler diversifiziert sein Portfolio international.
+Die Steueridentifikationsnummer muss beim Eröffnen eines Kontos angegeben werden.
+Bettina Schulz kaufte Anteile an einem Infrastrukturfonds.
+In Oslo werden die Gewinne aus der Ölförderung staatlich verwaltet.
+Die Short-Quote bei dem Einzelhandelswert ist sehr hoch.
+Marcel Jung überwacht die Einhaltung der Compliance-Regeln.
+Der Wert des Portfolios stieg im Jahr 2023 um 15%.
+Hannelore Kraft vergleicht die Konditionen für Online-Broker.
+John Doe decided to hedge his exposure to the British Pound yesterday.
+The inflation rate in the United Kingdom hit a ten-year high this morning.
+Alice Smith recommended buying Treasury bonds due to market instability.
+In New York, the stock market opened with a significant gap down.
+The Federal Reserve is expected to keep interest rates steady until September.
+Michael Brown invested $20,000 into a diversified index fund.
+Gold prices in Singapore reached an all-time high of $2,400 per ounce.
+Sarah Jenkins is an expert in emerging market debt instruments.
+The fiscal year ending in December 2025 looks promising for exporters.
+Robert Wilson liquidated his positions in the energy sector last Tuesday.
+High-yield corporate bonds are attracting investors in Canada.
+Emily Davis manages a large portfolio of commercial real estate in Chicago.
+The exchange rate for EUR/USD dropped below parity briefly.
+David Miller monitors the volatility index daily to adjust his strategy.
+In Hong Kong, the authorities introduced new anti-money laundering laws.
+The dividend payout was increased to $1.50 per share.
+Laura Thompson works as a quantitative analyst for a hedge fund.
+Small-cap stocks in Australia outperformed the broader market.
+Kevin Lee bought 100 units of a popular semiconductor ETF.
+Patricia Moore signed a long-term fixed-rate mortgage agreement.
+In Dubai, the demand for luxury real estate investment is surging.
+The yield curve has become inverted, signaling a potential recession.
+James Taylor diversification strategy includes physical commodities.
+Tax incentives for green energy projects will start in January.
+Sophia Martinez is reviewing the quarterly earnings report of the tech giant.
+The liquidity of the Japanese Yen makes it a preferred safe-haven currency.
+Richard White specializes in distressed debt restructuring.
+In Sydney, investors are shifting focus toward sustainable agriculture.
+The total assets under management reached £1 trillion this year.
