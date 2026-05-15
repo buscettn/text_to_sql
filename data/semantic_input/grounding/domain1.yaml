@@ -1,0 +1,5 @@
+domain: domain 1
+description: some random description
+extends: domainA_base
+content: |
+    This is some random content that is added after the domainA_base content.

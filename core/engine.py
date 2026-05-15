@@ -16,7 +16,7 @@ class TextToSQLEngine:
         initial_state = {
             "messages": [{"role": "user", "content": request.query}],
             "requested_domain": request.data_domain,
-            "data_domain": None,
+            "data_domain": {},
             "schema_context": [],
             "few_shot_context": [],
             "grounding_context": [],
@@ -31,11 +31,15 @@ class TextToSQLEngine:
         # Invoke the workflow
         final_state = await self.app.ainvoke(initial_state, config=config)
         
+        # Concatenate domain names for the final response
+        data_domain_scores = final_state.get("data_domain") or {}
+        concatenated_domains = ", ".join(data_domain_scores.keys()) if data_domain_scores else None
+
         return SQLResponse(
             sql=final_state.get("generated_sql"),
             message=final_state.get("agent_message", "No response generated."),
             status=final_state.get("status", "error"),
-            data_domain=final_state.get("data_domain"),
+            data_domain=concatenated_domains,
             thread_id=thread_id
         )
 
@@ -47,7 +51,7 @@ class TextToSQLEngine:
         initial_state = {
             "messages": [{"role": "user", "content": request.query}],
             "requested_domain": request.data_domain,
-            "data_domain": None,
+            "data_domain": {},
             "schema_context": [],
             "few_shot_context": [],
             "grounding_context": [],
@@ -73,10 +77,14 @@ class TextToSQLEngine:
             
             yield output
             
+        # Concatenate domain names for the final response
+        data_domain_scores = final_state.get("data_domain") or {}
+        concatenated_domains = ", ".join(data_domain_scores.keys()) if data_domain_scores else None
+
         yield SQLResponse(
             sql=final_state.get("generated_sql"),
             message=final_state.get("agent_message", "No response generated."),
             status=final_state.get("status", "error"),
-            data_domain=final_state.get("data_domain"),
+            data_domain=concatenated_domains,
             thread_id=thread_id
         )
