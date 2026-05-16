@@ -1,0 +1,10 @@
+DomainCode,TableCode
+DOMAIN1,customers
+DOMAIN2,geolocation
+DOMAIN3,order_items
+DOMAIN3,order_payments
+DOMAIN3,order_reviews
+DOMAIN3,orders
+DOMAIN4,product_category_name_translation
+DOMAIN4,products
+DOMAIN5,sellers

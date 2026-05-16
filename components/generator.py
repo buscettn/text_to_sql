@@ -18,4 +18,5 @@ class ContextBuilder:
         return "\n\n".join([item.content for item in all_items])
 
 def generate_sql(context: str, query: str) -> str:
+    #return query + "\n\n" + context
     return "SELECT * FROM dummy_table;"

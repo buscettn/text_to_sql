@@ -25,19 +25,21 @@ db = lancedb.connect(str(LANCEDB_PATH))
 
 # Use mode='overwrite' to replace the table if it already exists
 table = db.create_table("domain", data=df, mode="overwrite")
+print("Creating Full-Text Search (FTS) index on 'DomainText'...")
+table.create_fts_index("DomainText")
 print("Data successfully stored in LanceDB!")
 
 # ---------------------------------------------------------
-# Step 5: Retrieve top k results based on a query
+# Step 5: Retrieve top k results based on a query (Hybrid Search)
 # ---------------------------------------------------------
 query_text = "Tell me about profit and loss"
 k = 2
 
-print(f"\nSearching for top {k} results matching: '{query_text}'")
+print(f"\nSearching for top {k} results matching: '{query_text}' (Hybrid Search)")
 
 query_vector = get_embedding(query_text)
 
-results = table.search(query_vector).limit(k).to_pandas()
+results = table.search(query_type="hybrid").vector(query_vector).text(query_text).limit(k).to_pandas()
 
 print("\n--- Search Results ---")
 print(results.drop(columns=['vector']))
